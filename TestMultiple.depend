@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1445150198 source:c:\users\hackroxx\documents\cprograms\testmultiple\data.cpp
+	<vector>
+	"data.h"
+
+1445150614 c:\users\hackroxx\documents\cprograms\testmultiple\data.h
+	<stdio.h>
+
+1445150246 source:c:\users\hackroxx\documents\cprograms\testmultiple\fpgrowth.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<time.h>
+	"data.h"
+	"item.h"
+	"fptree.h"
+	"fpgrowth.h"
+
+1445150863 c:\users\hackroxx\documents\cprograms\testmultiple\item.h
+	<set>
+
+1445150669 c:\users\hackroxx\documents\cprograms\testmultiple\fptree.h
+	<set>
+
+1445150642 c:\users\hackroxx\documents\cprograms\testmultiple\fpgrowth.h
+
+1445150278 source:c:\users\hackroxx\documents\cprograms\testmultiple\fptree.cpp
+	<iostream>
+	<stdio.h>
+	<set>
+	"data.h"
+	"item.h"
+	"fptree.h"
+
